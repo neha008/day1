@@ -1,0 +1,15 @@
+.p-2{
+    margin: 20px;
+}
+.nav-item{
+    margin-right: 20px;
+}
+.nav-link{
+    margin-right: 20px;
+    color: purple;
+}
+
+.form-inline{
+    float: right
+}
+
